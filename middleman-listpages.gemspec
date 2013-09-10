@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.name        = "middleman-listpages"
   s.version     = Middleman::ListPages::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Eric Strathmeyer"]
+  s.authors     = ["Eric Strathmeyer", "Spencer Rhodes"]
   s.email       = ["eric@vawks.com"]
-  s.homepage    = "https://github.com/strathmeyer/middleman-listpages"
+  s.homepage    = "https://github.com/oobleck/middleman-listpages"
   s.summary     = %q{Adds listpages to Middleman}
   s.description = %q{Adds listpages to Middleman}
 
