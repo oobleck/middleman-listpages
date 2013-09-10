@@ -3,6 +3,8 @@
 middleman-listpages is an extension for the [Middleman](http://middlemanapp.com) static site generator that adds the
 ability to list the child pages of a given page.
 
+Forked from [strathmeyer/middleman-listpages](https://github.com/strathmeyer/middleman-listpages). Goign to make this work in MM ~>3.1.4.
+
 # Install
 
 Add `middleman-listpages` to your `Gemfile`
